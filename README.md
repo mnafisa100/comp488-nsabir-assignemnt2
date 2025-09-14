@@ -18,8 +18,10 @@ The website features:
 
 1. **Clone the Repository**
 
+```bash
    git clone https://github.com/mnafisa100/comp488-nsabir-assignemnt2.git
    cd comp488-nsabir-assignemnt2
+```
 
 2. **Open the Website**
    Just open `index.html` in your favorite web browser. No installation or server setup needed.
